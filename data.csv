@@ -1,0 +1,9 @@
+large,no,bad,average,yes
+small,no,average,light,yes
+small,yes,bad,average,no
+large,no,bad,heavy,no
+large,no,bad,average,yes
+large,no,bad,light,yes
+large,yes,bad,heavy,yes
+small,no,average,average,no
+
